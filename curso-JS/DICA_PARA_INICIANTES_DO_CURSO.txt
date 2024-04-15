@@ -17,7 +17,7 @@ Não pule para as próximas etapas se não estiver familiarizado com os conceito
 
 JAVASCRIPT:
 
-Seção 3 - Iniciando com Programação - ok
+Seção 3 - Iniciando com Programação
 Seção 4 - Fundamentos 
 Seção 5 - Estruturas de controle
 Seção 6 - Função

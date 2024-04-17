@@ -16,12 +16,14 @@ console.log(media.toString(2));//converte para binário
 console.log(media.toString());
 console.log(typeof Number); //tipo função
 
+//Alguns cuidados
 console.log(7/0); //valor divido por 0 gera infinito(tipo infinity)
 console.log("10"/2);
 
 /* o operador + tbm é usado para concatenar,
    neste caso por se tratar de uma string com um número o JS vai concatenar
 */
+console.log("Show!" + 2)
 console.log("3" + 2);
 console.log("3" - 2);
 console.log("10.5"/2);

@@ -1,3 +1,7 @@
+/*
+ * O JavaScript é uma linguagem fracamente tipada, isso significa
+ * que  “ele” tentará converter em tempo de execução os dados no valor.
+ */
 let qualquer = "legal";
 console.log(qualquer);
 console.log(typeof qualquer);

@@ -10,4 +10,4 @@ console.log(escola.substring(0, 3))// vai do indice 0 até 3, mas não inclui o 
 
 console.log("Escola ".concat(escola).concat(" é legal!"))
 console.log(escola.replace(3, "e"))// substitui o caracter do indice 3 pela letra 'e'
-console.log("Ana,Maria,Pedro".split(","))//converte a string em array, com a virgula como separador
+console.log("Ana,Maria,Pedro".split(","))//converte a string em array, utilizando a virgula como separador

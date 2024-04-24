@@ -2,7 +2,7 @@
 var a = 3;
 let b = 4;
 
-var a = 30;
+var a = 30;// var permite redeclarar a variavel quantas vesez quiser.
 b = 45;
 
 console.log(a, b);

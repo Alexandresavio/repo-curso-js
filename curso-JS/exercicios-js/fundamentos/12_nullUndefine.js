@@ -1,7 +1,7 @@
-let valor // não inicializada, declaramos mas não setamos o valor(undefine)
+let valor // variavel declarada porém não foi inicializada, ou seja declaramos mas não setamos o valor (undefine)
 console.log(valor)
 
-valor = null // ausência de valor
+valor = null //variavel declarada e setada como vazio, ausência de valor
 console.log(valor)
 //console.log(valor.toString()) //ERRO!
 
@@ -19,4 +19,5 @@ console.log(produto)
 
 produto.preco = null//sem preço
 console.log(!!produto.preco)
+console.log(produto)
 

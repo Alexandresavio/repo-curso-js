@@ -1,5 +1,10 @@
 //sintaxe de declaração variaveis 
 var a = 3;
+
+/* Let -> Escopo de bloco: As variáveis declaradas com let têm escopo de bloco,
+ * o que significa que são visíveis apenas dentro do bloco em que são declaradas,
+ * incluindo blocos if, loops for, while, etc. 
+ */
 let b = 4;
 
 var a = 30;// var permite redeclarar a variavel quantas vesez quiser.

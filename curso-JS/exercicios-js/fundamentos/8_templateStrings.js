@@ -7,4 +7,5 @@ console.log("Olá "+nome+("!"));
 const template = `Olá ${nome}, tudo bom?`;
 console.log(template);
 
+//expressões-> soma apenas o que está entre chaves 
 console.log(`1 + 1 = ${1 + 1}`);

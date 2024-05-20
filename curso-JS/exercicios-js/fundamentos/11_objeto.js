@@ -5,6 +5,10 @@ prod1['Desconto legal'] = 0.40; //evitar atributos com espaço
 
 console.log(prod1);
 
+/**
+ * Objeto é um conjunto de pares chave: valor
+ * Declaração de um objeto em js:
+ */
 const prod2 ={
     nome: "Camisa polo",
     preco: 79.99

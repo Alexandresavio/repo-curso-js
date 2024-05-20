@@ -18,7 +18,8 @@ console.log(typeof Number); //tipo função
 
 //Alguns cuidados
 console.log(7/0); //valor divido por 0 gera infinito(tipo infinity)
-console.log("10"/2);
+console.log("10"/2);//retorna 5
+console.log("opa"/2)//retorna NaN
 
 /* o operador + tbm é usado para concatenar,
    neste caso por se tratar de uma string com um número o JS vai concatenar

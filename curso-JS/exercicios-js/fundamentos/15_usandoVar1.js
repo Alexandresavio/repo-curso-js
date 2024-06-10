@@ -10,7 +10,7 @@
 console.log(sera)
 
 function teste(){
-    var local = 123 //quando a variavel for declarada em um boco que seja uma função, neste ela tem escopo de funcao
+    var local = 123 //quando a variavel for declarada em um boco que seja uma função, neste caso ela tem escopo de funcao
     console.log(local)
 }
 

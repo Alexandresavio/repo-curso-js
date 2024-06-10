@@ -7,7 +7,7 @@ console.log(valor)
 
 const produto = {}
 console.log(produto.preco)//o objeot produto acessou o atributo, porém ele não está declarado
-console.log(produto)
+console.log(produto)// mostra o objeto vazio
 
 produto.preco = 3.50
 console.log(produto)
